@@ -1,0 +1,32 @@
+*{
+    overflow: hidden;
+}
+
+
+h1{
+    font-size: 100px;
+    font-family: 'Lobster', sans-serif;
+}
+p{
+    font-family: 'Whisper', cursive;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+h5{
+    font-size: 24px;
+    font-family: 'Lobster', sans-serif;
+}
+
+
+
+.background{
+ background-image: url(./pexels-joshua-135018.jpg);
+ background-size: cover;
+ background-position: center;
+ height: 100vh;
+}
+.layer{
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 100vh;
+}
